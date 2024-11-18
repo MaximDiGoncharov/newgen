@@ -1,8 +1,8 @@
 <?php
-$localhost = 'docker.mysql';
-$username = 'root';
-$password = 'root';
-$database = 'newgen';
+$localhost = '';
+$username = '';
+$password = '';
+$database = '';
 
 
 define('DB_SAFE_NO_QUOTAS', 0);
